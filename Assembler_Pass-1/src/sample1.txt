@@ -1,0 +1,7 @@
+START 100
+mover ax FIVE
+mover bx 10
+add ax bx
+FIVE  dc  '05'
+TEN   dc  '10'
+END
